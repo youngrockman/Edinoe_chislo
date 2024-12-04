@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "edinoe_chislo/1.0.0": {
+        "runtime": {
+          "edinoe_chislo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "edinoe_chislo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

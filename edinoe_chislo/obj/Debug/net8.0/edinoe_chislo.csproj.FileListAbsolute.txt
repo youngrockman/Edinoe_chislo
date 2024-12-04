@@ -1,0 +1,14 @@
+C:\Users\glagol\source\repos\edinoe_chislo\edinoe_chislo\bin\Debug\net8.0\edinoe_chislo.exe
+C:\Users\glagol\source\repos\edinoe_chislo\edinoe_chislo\bin\Debug\net8.0\edinoe_chislo.deps.json
+C:\Users\glagol\source\repos\edinoe_chislo\edinoe_chislo\bin\Debug\net8.0\edinoe_chislo.runtimeconfig.json
+C:\Users\glagol\source\repos\edinoe_chislo\edinoe_chislo\bin\Debug\net8.0\edinoe_chislo.dll
+C:\Users\glagol\source\repos\edinoe_chislo\edinoe_chislo\bin\Debug\net8.0\edinoe_chislo.pdb
+C:\Users\glagol\source\repos\edinoe_chislo\edinoe_chislo\obj\Debug\net8.0\edinoe_chislo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\glagol\source\repos\edinoe_chislo\edinoe_chislo\obj\Debug\net8.0\edinoe_chislo.AssemblyInfoInputs.cache
+C:\Users\glagol\source\repos\edinoe_chislo\edinoe_chislo\obj\Debug\net8.0\edinoe_chislo.AssemblyInfo.cs
+C:\Users\glagol\source\repos\edinoe_chislo\edinoe_chislo\obj\Debug\net8.0\edinoe_chislo.csproj.CoreCompileInputs.cache
+C:\Users\glagol\source\repos\edinoe_chislo\edinoe_chislo\obj\Debug\net8.0\edinoe_chislo.dll
+C:\Users\glagol\source\repos\edinoe_chislo\edinoe_chislo\obj\Debug\net8.0\refint\edinoe_chislo.dll
+C:\Users\glagol\source\repos\edinoe_chislo\edinoe_chislo\obj\Debug\net8.0\edinoe_chislo.pdb
+C:\Users\glagol\source\repos\edinoe_chislo\edinoe_chislo\obj\Debug\net8.0\edinoe_chislo.genruntimeconfig.cache
+C:\Users\glagol\source\repos\edinoe_chislo\edinoe_chislo\obj\Debug\net8.0\ref\edinoe_chislo.dll
